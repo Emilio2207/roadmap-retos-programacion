@@ -22,7 +22,7 @@ let bigIntVar = BigInt(9876543219876543); // BigInt, para valores muy grandes pe
 
 console.log(`¡Hola, ${stringVar}`);
 
-// Punto extra, para saber tipos.
+// Punto extra, para que figure en consola el tipo.
 console.log(typeof stringVar);
 console.log(typeof intVar);
 console.log(typeof floatVar);
